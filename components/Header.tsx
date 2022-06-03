@@ -7,8 +7,10 @@ function Header() {
                     <div className="font-Cedarville">Luis Berzoza</div>
                 </div>
             </div>
+            <h1 className="">This is the HEADER</h1>
+            <div>
 
-            <div></div>
+            </div>
         </header>
     )
 }
