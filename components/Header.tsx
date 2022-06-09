@@ -1,4 +1,4 @@
-// import FacebookIcon from '@mui/icons-material/Facebook';
+import FacebookIcon from '@mui/icons-material/Facebook';
 
 function Header() {
     return (
@@ -13,7 +13,7 @@ function Header() {
                     <div className="font-Cedarville text-2xl w-44 object-contain cursor-pointer">Luis Berzoza</div>      
 
                     <div className="hidden md:inline-flex object-right content-end space-x-5">
-                        <a > <Facebook /> </a>
+                        <a> <Facebook /> </a>
                         <h3>Twitter</h3>
                         <h3>Linkedin</h3>
                     </div>
